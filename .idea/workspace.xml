@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b35dc84-fb80-42b4-9bfe-1313eae469b9" name="Default" comment="" />
+    <list default="true" id="0b35dc84-fb80-42b4-9bfe-1313eae469b9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zan7.php" afterPath="$PROJECT_DIR$/zan7.php" />
+    </list>
     <ignored path="courses.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="zan2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zan2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="dom_zav.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dom_zav.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -66,16 +59,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zan3.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zan3.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="zan5.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zan5.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,7 +72,7 @@
       <file leaf-file-name="dom_zan5.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dom_zan5.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="721">
+            <state relative-caret-position="850">
               <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding />
             </state>
@@ -99,18 +82,56 @@
       <file leaf-file-name="dom_zan5-1.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dom_zan5-1.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-136">
+            <state relative-caret-position="187">
               <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="zan7.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="zan7.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zan7.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            <state relative-caret-position="374">
+              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+              <folding>
+                <element signature="e#114#142#0#PHP" expanded="false" />
+                <element signature="n#getName#0;n#User#0;n#!!top" expanded="false" />
+                <element signature="e#204#237#0#PHP" expanded="false" />
+                <element signature="n#setName#0;n#User#0;n#!!top" expanded="false" />
+                <element signature="e#398#427#0#PHP" expanded="false" />
+                <element signature="n#getRole#0;n#User#0;n#!!top" expanded="false" />
+                <element signature="e#489#523#0#PHP" expanded="false" />
+                <element signature="n#setRole#0;n#User#0;n#!!top" expanded="false" />
+                <element signature="e#594#622#0#PHP" expanded="false" />
+                <element signature="n#getEmail#0;n#User#0;n#!!top" expanded="false" />
+                <element signature="e#686#720#0#PHP" expanded="false" />
+                <element signature="n#setEmail#0;n#User#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zan8.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zan8.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="69" column="18" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+              <folding>
+                <marker date="1461313343259" expanded="true" signature="144:162" placeholder="SELECT * fro... post" />
+                <marker date="1461313343259" expanded="true" signature="407:443" placeholder="SELECT * FRO... post" />
+                <marker date="1461313343259" expanded="true" signature="471:521" placeholder="SELECT * FRO... post" />
+                <marker date="1461313343259" expanded="true" signature="1444:1481" placeholder="SELECT $what... $table" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -128,6 +149,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -141,6 +165,8 @@
         <option value="$PROJECT_DIR$/zan4.php" />
         <option value="$PROJECT_DIR$/dom_zan5-1.php" />
         <option value="$PROJECT_DIR$/zan7.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/zan8.php" />
       </list>
     </option>
   </component>
@@ -183,6 +209,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,7 +230,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -212,6 +238,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
@@ -291,19 +318,21 @@
       <workItem from="1460699228608" duration="228000" />
       <workItem from="1460911677823" duration="687000" />
       <workItem from="1460953769863" duration="620000" />
-      <workItem from="1461050675801" duration="2625000" />
+      <workItem from="1461050675801" duration="2804000" />
+      <workItem from="1461250703509" duration="1060000" />
+      <workItem from="1461306184375" duration="5607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160028000" />
+    <option name="totallyTimeSpent" value="166874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22348484" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23106061" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -359,7 +388,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -371,22 +400,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zan3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zan1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zan2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -435,7 +448,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -487,7 +499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -539,7 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -581,7 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -623,7 +632,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -655,7 +663,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -679,7 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -695,7 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -777,7 +781,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dom_zan5.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
+        <state relative-caret-position="850">
           <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
@@ -785,7 +789,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dom_zan5-1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-136">
+        <state relative-caret-position="187">
           <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
           <folding />
         </state>
@@ -793,9 +797,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/zan7.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        <state relative-caret-position="374">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding>
+            <element signature="e#114#142#0#PHP" expanded="false" />
+            <element signature="n#getName#0;n#User#0;n#!!top" expanded="false" />
+            <element signature="e#204#237#0#PHP" expanded="false" />
+            <element signature="n#setName#0;n#User#0;n#!!top" expanded="false" />
+            <element signature="e#398#427#0#PHP" expanded="false" />
+            <element signature="n#getRole#0;n#User#0;n#!!top" expanded="false" />
+            <element signature="e#489#523#0#PHP" expanded="false" />
+            <element signature="n#setRole#0;n#User#0;n#!!top" expanded="false" />
+            <element signature="e#594#622#0#PHP" expanded="false" />
+            <element signature="n#getEmail#0;n#User#0;n#!!top" expanded="false" />
+            <element signature="e#686#720#0#PHP" expanded="false" />
+            <element signature="n#setEmail#0;n#User#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zan8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="69" column="18" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+          <folding>
+            <marker date="1461313343259" expanded="true" signature="144:162" placeholder="SELECT * fro... post" />
+            <marker date="1461313343259" expanded="true" signature="407:443" placeholder="SELECT * FRO... post" />
+            <marker date="1461313343259" expanded="true" signature="471:521" placeholder="SELECT * FRO... post" />
+            <marker date="1461313343259" expanded="true" signature="1444:1481" placeholder="SELECT $what... $table" />
+          </folding>
         </state>
       </provider>
     </entry>
